@@ -125,9 +125,9 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-Even experienced players can fall into common traps when playing the <strong>Dragon Tiger Game Online. 
+Even experienced players can fall into common traps when playing the Dragon Tiger Game Online. 
   
- Here Are Some Pitfalls to Watch Out For:
+ <strong>Here Are Some Pitfalls to Watch Out For:<strong>
   
 <!-- /wp:paragraph -->
 
